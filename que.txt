@@ -77,3 +77,5 @@
 39. In an unsorted array ,let index of element x be i, find index of x after sorting.
 
 40. Check if a given number is armstrong number (check if sum of cube of its digits is equal to the number itself). 
+
+41. Find MEX of array .
