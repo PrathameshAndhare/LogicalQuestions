@@ -79,3 +79,10 @@
 40. Check if a given number is armstrong number (check if sum of cube of its digits is equal to the number itself). 
 
 41. Find MEX of array .
+
+42. Check if string is a substring of another string and give index of first occurence.
+
+43. given [1,2,3] add 1 to 123 and output [1,2,4] or [9,9,9]->[1,0,0,0]
+
+44.Given nxm matrix and tiles of dimensions 2x2 and 1x1. Find minimum no. of 1x1 tiles required to fill all boxes of matrix.
+
