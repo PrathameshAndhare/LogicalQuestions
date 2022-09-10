@@ -86,3 +86,7 @@
 
 44.Given nxm matrix and tiles of dimensions 2x2 and 1x1. Find minimum no. of 1x1 tiles required to fill all boxes of matrix.
 
+45. Let's define 𝑆(𝑥) to be the sum of digits of number 𝑥 written in decimal system. For example, 𝑆(5)=5, 𝑆(10)=1, 𝑆(322)=7.
+
+We will call an integer 𝑥 interesting if 𝑆(𝑥+1)<𝑆(𝑥). In each test you will be given one integer 𝑛. Your task is to calculate the number of integers 𝑥 such that 1≤𝑥≤𝑛 and 𝑥 is interesting.
+
