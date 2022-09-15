@@ -58,7 +58,7 @@
 
 30. Given an initial position say x(number located on a number line) and n steps , if the ith step is even ,move x to left by i units and if odd then move x to right by i units . Likewise find position of x after n steps .1<=i<=n.
 
-31. Find smallest positive number n such that sum of its digits is exactly equal to given x and without repetition of digits (ex for x=25,n=1789).
+31. Find smallest positive number n such that sum of its digits is exactly equal to given x and without repetition of digits (ex for x=25,n=1789).https://codeforces.com/problemset/problem/1462/C
 
 32. You have a 3 Rs coins and 7 Rs coins .Given an amount n ,check if the amount i.e n can be paid with use of only 3 Rs coins and 7 Rs coins or not .(ex. for n=19, 3x4+7x1=19).
 
