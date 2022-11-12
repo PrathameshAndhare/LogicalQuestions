@@ -97,3 +97,5 @@
 49. Find longest palindromic string in the given string.
 
 50. https://codeforces.com/problemset/problem/1700/B
+
+51. https://codeforces.com/problemset/problem/1579/E1
