@@ -99,3 +99,5 @@
 50. https://codeforces.com/problemset/problem/1700/B
 
 51. https://codeforces.com/problemset/problem/1579/E1
+
+52. https://leetcode.com/problems/longest-common-prefix/
